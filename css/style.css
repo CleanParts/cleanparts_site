@@ -40,7 +40,7 @@ nav a {
 
 .prodotto img {
     width: 200px;
-    height: auto;
+    height: 200px;
     margin-bottom: 1em;
 }
 
@@ -62,5 +62,6 @@ footer {
     position: relative;
     bottom: 0;
 }
+
 
 
