@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prodotti - CLEANPARTS</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+         <img src="https://i.ebayimg.com/images/g/Q8MAAeSwqM1pASWc/s-l140.webp">
+        <h1 style="font-size: 3rem; font-family: Century Gothic, sans-serif;">Outlet Store Home</h1>
+        <nav>
+           <a href="index.html"style="font-size: 1rem; font-family: 'Century Gothic', sans-serif;">Home</a>
+            <a href="prodotti.html"style="font-size: 1rem; font-family: 'Century Gothic', sans-serif;">Prodotti</a>
+            <a href="contatti.html"style="font-size: 1rem; font-family: 'Century Gothic', sans-serif;">Contatti</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Ricambi Dyson</h2>
+        <div class="prodotto">
+            <img src="https://i.ebayimg.com/images/g/5UoAAeSwD-5oZ4uR/s-l1600.webp" alt="Filtro Dyson V11 V15">
+            <h3>Filtro Dyson V11 V15</h3>
+<h4>Filtro hepa cilindrico<h4>
+<h4>per scopa elettrica<h4>
+<h4>970013-02<h4>
+<h4>PER I SEGUENTI MODELLI:/p><h4>
+<h4>- Dyson V15 Detect<h4>
+<h4>- Dyson V15s Detect Submarine<h4>
+<h4>- Dyson V11<h4>
+            <a href="https://www.ebay.it/itm/388667101745">Compra su eBay</a>
+            <a href="https://www.vinted.it/catalog?search_text=%23filtrodyson" target="_blank">Compra su Vinted</a>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 CLEANPARTS. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+
+</html>
+
+
+
